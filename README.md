@@ -1,6 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
+I am currently freelancing, trying to enter the job market as a frontend developer
+
+- 🔭 I’m currently working on freelancer
+- 🌱 I’m currently learning javascript
+- 👯 I’m looking to collaborate on community open source
+- 📫 How to reach me: carmosousa20@outlook.com
+- 😄 Pronouns: Metatron
+
+<!-- 
 **Carmo-sousa/Carmo-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
