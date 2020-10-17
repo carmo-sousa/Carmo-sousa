@@ -1,4 +1,10 @@
-# ![Github-cover](assets/github-cover.png)
+<img src="./assets/github-profile.svg">
+<center>
+  <table>
+      <tr>
+          <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carmo-sousa&layout=compact&theme=dracula" /></td>
+          <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Carmo-sousa&theme=dracula"/></td>
+      </tr>   
+  </table>
+</center>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Carmo-sousa&theme=dracula&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmo-sousa&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
