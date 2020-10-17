@@ -1,24 +1,4 @@
-# Hi there 👋
+# ![Github-cover](assets/github-cover.png)
 
-I am currently freelancing, trying to enter the job market as a frontend developer
-
-- 🔭 I’m currently working on freelancer
-- 🌱 I’m currently learning javascript
-- 👯 I’m looking to collaborate on community open source
-- 📫 How to reach me: carmosousa20@outlook.com
-- 😄 Pronouns: Metatron
-
-<!-- 
-**Carmo-sousa/Carmo-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carmo-sousa)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Carmo-sousa)](https://github.com/anuraghazra/github-readme-stats)
