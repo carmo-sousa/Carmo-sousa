@@ -15,9 +15,7 @@
 
 ---
 
-Me chamo Rômulo tenho 23 anos e moro em Manaus/AM. Atualmente sou desenvolvedor frontend junior atuando como freelancer
-Sou autodidata e estudo frontend a quase um ano.
-> ps: por enquanto só tenho trabalhos pessoais
+Me chamo Rômulo tenho 23 anos e moro em Manaus/AM. Atualmente estudo programação nos tempos livres.
 
 ## Onde me encontrar
 
