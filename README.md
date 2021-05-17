@@ -1,4 +1,7 @@
-<img src="./assets/github-profile.svg" width="100%">
+# Rômulo do Carmo Sousa
+
+<!-- <img src="./assets/github-profile.svg" width="100%"> -->
+<img width="100%" src="https://media.giphy.com/media/HteV6g0QTNxp6/giphy.gif"></img>
 
 <table>
   <tr>
