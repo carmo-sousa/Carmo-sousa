@@ -1,7 +1,7 @@
 # Rômulo do Carmo Sousa
 
-<!-- <img src="./assets/github-profile.svg" width="100%"> -->
-<img src="https://media.giphy.com/media/HteV6g0QTNxp6/giphy.gif">
+<img src="./assets/github-profile.svg" width="100%">
+<!-- <img src="https://media.giphy.com/media/HteV6g0QTNxp6/giphy.gif"> -->
 
 <table>
   <tr>
