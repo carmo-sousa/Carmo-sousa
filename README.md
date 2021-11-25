@@ -14,20 +14,11 @@
   </tr>
 </table>
 
-# Bem vindo ao meu github
+## Bem vindo ao meu github
 
 ---
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/metatron_br)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?logo=instagram&logoColor=ffffff&style=for-the-badge)](https://www.instagram.com/romulo_1997/)
+[![Linkedin](https://img.shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://www.linkedin.com/in/romulo-sousa-dev)
 
 Me chamo Rômulo tenho 23 anos e moro em Manaus/AM. Atualmente estudo programação nos tempos livres.
-
-## Onde me encontrar
-
-[![Twitter](assets/twitter.png) Twitter](https://twitter.com/metatron_br)
-
-[![Instagram](assets/instagram.png) Instagram](https://twitter.com/metatron_br)
-
-## Créditos
-
-<div>Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-
-[Lukas Zadam](https://lukaszadam.com/)
