@@ -2,6 +2,8 @@
 
 # Rômulo Sousa
 
+Profissional da área de TI com experiência em desenvolvimento backend e práticas de DevOps. Familiarizado com uma variedade de tecnologias, incluindo Python, Django, AWS e Docker, e com habilidades em versionamento usando Git e armazenamento com GitHub. Habituado a trabalhar com GitHub Actions para implantação em serviços AWS e execução de testes. Comprometido com o desenvolvimento de código de alta qualidade, estudando e aplicando práticas como Clean Code, Clean Architecture, TDD e DDD. Certificado pela plataforma Alura e com projetos pessoais no GitHub que refletem meu interesse contínuo em aprender e crescer na minha carreira. Motivado para colaborar em ambientes dinâmicos, contribuindo com soluções práticas e inovadoras.
+
 ## Contatos
 
 <div align="center">
